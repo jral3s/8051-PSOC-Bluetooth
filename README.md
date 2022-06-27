@@ -1,3 +1,3 @@
-# Interfacing between PSOC and 8051 using Bluetooth
+# Interfacing between PSOCs using HC-05 Bluetooth Modules
 
-This repo contains code to facilitate Bluetooth communication between an 8051 and a PSOC 5 Big Board using HC-05s
+This repo contains code to facilitate Bluetooth communication between PSOCs using HC-05s
